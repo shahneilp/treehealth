@@ -6,3 +6,4 @@ dash==1.9.1
 dash-renderer==1.2.4
 dash-html-components==1.0.2
 dash-core-components==1.8.1
+pandas=0.25.3
