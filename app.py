@@ -59,6 +59,7 @@ that will be called to the three plots
 
 ###Begin Dash
 app = dash.Dash()
+server = app.server 
 app.layout = html.Div([
     html.H1("New York City: Tree Health Tool"),
     
